@@ -11,7 +11,7 @@
 <body bgcolor="FBB917">  
   <div><h2>Registration Form</h2></div>
   <!-- connect.php is the file which connects the register page to the datebase -->
-  <form action="connnect.php" method="POST">
+  <form action="connect.php" method="POST">
     <label for="user">Name: </label><br>
     <input type="text" name="name" id="name" required> <br><br>
     
